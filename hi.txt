@@ -2,3 +2,5 @@ Hi Guys Im going to commit with my github remote repository
 
 Hi Guys Im editing this file from new_dir_2 branch
 
+Hi guys Im doing the rebase toturial
+
